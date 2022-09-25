@@ -1,0 +1,21 @@
+A0	Keys
+A1	Vibro-motor
+A2	Ch3
+A3	Ch4
+A4	Beeper
+A5	Ch5
+
+D0	Rx/Tx
+D1	Rx/Tx
+D2	DS1302 Rst
+D3	DS1302 I/O
+D4	LCD
+D5	LCD
+D6	LCD
+D7	LCD
+D8	LCD
+D9	LCD
+D10	LCD Backlight
+D11	Ch1
+D12	DS1302 Scl
+D13	Ch2
